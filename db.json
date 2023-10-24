@@ -24,5 +24,27 @@
             "album": "The Beatles (White Album)",
             "year": "1968"
         }
+    ],
+    "genres": [
+        {
+            "name": "Rock",
+            "img": "https://img.freepik.com/vector-gratis/patron-costuras-grunge-calaveras_225004-1117.jpg?size=338&ext=jpg&ga=GA1.1.386372595.1698019200&semt=sph"
+        },
+        {
+            "name": "Pop",
+            "img": "https://i8.amplience.net/i/naras/RA_2022_In_Review_Pop_HeroCollage_1644x925-.jpg?w=821&sm=c"
+        },
+        {
+            "name": "Hip-Hop",
+            "img": "https://cdn.aarp.net/content/dam/aarp/entertainment/music/2019/11/1140x655-hip-hop-banner-esp.jpg"
+        },
+        {
+            "name": "Jazz",
+            "img": "https://i0.wp.com/liveforlivemusic.com/wp-content/uploads/2016/06/jazzband.png?fit=1200%2C736&ssl=1"
+        },
+        {
+            "name": "Electronic",
+            "img": "https://mn2s-content.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/25110600/pexels-photo-844928-1024x683.jpeg"
+        }
     ]
 }
